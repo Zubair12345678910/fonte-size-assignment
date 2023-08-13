@@ -1,0 +1,49 @@
+
+*{
+    text-decoration:underline;
+    text-align:center;
+    background-color: aqua;
+    text-shadow: 1px 1px 0px rgb(239, 9, 9);
+}
+.one{
+    font-size: 1.3em;
+}
+.two{
+    font-size: 1.6em;
+}
+.three{
+    font-size: 1.9em;
+}
+.four{
+    font-size: 2.3em;
+}
+.five{
+    font-size:2.6em ;
+}
+.six{
+    font-size: 2.9em;
+}
+.seven{
+    font-size: 3.2em;
+}
+.eight{
+    font-size: 3.5em;
+}
+.nine{
+    font-size: 3.8em;
+}
+.ten{
+    font-size: 4.1em;
+}
+.eleven{
+    font-size: 4.4em;
+}
+.twelve{
+    font-size: 4.7em;
+}
+.thirteen{
+    font-size: 5em;
+}
+.fourteen{
+    font-size: 5.3em;
+}
